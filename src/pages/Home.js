@@ -39,8 +39,8 @@ const Home = () => {
             <div className="formWrapper">
                 <img
                     className="homePageLogo"
-                    src="/code-sync.png"
-                    alt="code-sync-logo"
+                    src="/logo.png"
+                    alt="logo"
                 />
                 <h4 className="mainLabel">Paste invitation ROOM ID</h4>
                 <div className="inputGroup">
@@ -77,8 +77,8 @@ const Home = () => {
             </div>
             <footer>
                 <h4>
-                    Built with 💛 &nbsp; by &nbsp;
-                    <a href="https://github.com/codersgyan">Coder's Gyan</a>
+                    Built with ❤️ &nbsp; by &nbsp;
+                    <a href="https://www.linkedin.com/in/priyadarshni-sankar-4a387222b/">Priyadarshni Sankar</a>
                 </h4>
             </footer>
         </div>
